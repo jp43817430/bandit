@@ -1,0 +1,19 @@
+[Icon Theme]
+Name=Bandit
+
+Directories=30x30,30x30@2,30x30@3
+
+[30x30]
+Size=30
+Type=Fixed
+
+[30x30@2]
+Size=30
+Scale=2
+Type=Fixed
+
+[30x30@3]
+Size=30
+Scale=3
+Type=Fixed
+

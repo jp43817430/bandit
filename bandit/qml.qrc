@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Bandit.qml</file>
+        <file>icons/bandit/30x30/back.png</file>
+        <file>icons/bandit/30x30/proxy.png</file>
+        <file>icons/bandit/30x30@2/back.png</file>
+        <file>icons/bandit/30x30@2/menu.png</file>
+        <file>icons/bandit/30x30@2/proxy.png</file>
+        <file>icons/bandit/30x30@3/back.png</file>
+        <file>icons/bandit/30x30@3/menu.png</file>
+        <file>icons/bandit/30x30@3/proxy.png</file>
+        <file>icons/bandit/index.theme</file>
+        <file>icons/bandit/30x30/settings.png</file>
+        <file>icons/bandit/30x30@2/settings.png</file>
+        <file>icons/bandit/30x30@3/settings.png</file>
+        <file>images/logo.png</file>
+        <file>pages/Proxy.qml</file>
+        <file>pages/ScrollablePage.qml</file>
+        <file>icons/bandit/30x30/drop.png</file>
+        <file>icons/bandit/30x30/forw.png</file>
+        <file>icons/bandit/30x30/inter.png</file>
+        <file>icons/bandit/30x30/menu.png</file>
+        <file>icons/bandit/30x30@2/drop.png</file>
+        <file>icons/bandit/30x30@2/forw.png</file>
+        <file>icons/bandit/30x30@2/inter.png</file>
+        <file>icons/bandit/30x30@3/drop.png</file>
+        <file>icons/bandit/30x30@3/forw.png</file>
+        <file>icons/bandit/30x30@3/inter.png</file>
+        <file>pages/ProxySettings.qml</file>
+        <file>icons/bandit/30x30/close.png</file>
+        <file>icons/bandit/30x30@2/close.png</file>
+        <file>icons/bandit/30x30@3/close.png</file>
+        <file>pages/Settings.qml</file>
+    </qresource>
+</RCC>
