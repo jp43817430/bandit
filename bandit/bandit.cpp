@@ -1,3 +1,5 @@
+# Check the email for this GitHub account.
+
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 #include <QQuickStyle>
